@@ -1,0 +1,24 @@
+{
+  "name": "word-guess-cli",
+  "version": "1.0.0",
+  "description": "Word Guess Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medwasfy/WORD-GUESS-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medwasfy/WORD-GUESS-CLI/issues"
+  },
+  "homepage": "https://github.com/medwasfy/WORD-GUESS-CLI#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "is-letter": "^1.1.1",
+    "npm": "^6.2.0"
+  }
+}
