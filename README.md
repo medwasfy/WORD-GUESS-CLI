@@ -4,10 +4,12 @@ The app uses the inquirer node module to collect user inputs.
 
 Challenge: 
 
-        * to be guessed is the country randomly picked by the computer who has         participated in the world cup of 2018
+        * Choose from World Cup 2018 participating Countries
+
+        * to be guessed is the country randomly picked by the computer 
 
         * one letter at a time the palyer will have 10 chances before losing the game. 
 
 
 
-![Alt text](relative/path/to/screenshot.png?raw=true "scrrenshot")
+![Alt text](./screenshot/screenshot.png)
